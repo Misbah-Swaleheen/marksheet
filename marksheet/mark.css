@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px !important;
+    margin: 5% !important;
+    
+}
+.container .fhead{
+    margin-bottom: 0% !important;
+}
+.container .shead{
+    margin-top: 0% !important;
+    margin-bottom: 2% !important;
+}
+.container .para{
+    display: block;
+    font-size: 20px;
+}
+.container .frst{
+    margin-top: 2%;
+}
+
+.container .row{
+    padding: 1%;
+    font-size: 18px;
+}
+
+.container .row .col .second{
+    padding-left: 5%;
+    font-family: 'Cutive Mono', monospace;
+}
+ .table{
+    
+    padding: 2% 5% !important;
+    font-size: 18px;
+    background-color: rgb(194, 245, 228);
+}
+
+.table .heading{
+    padding: 1% ;
+    border: 1px solid #222;
+    letter-spacing: 10px;
+    font-family: 'Cutive Mono', monospace;
+}
+.table .row {
+    padding-left: 5% !important ;
+    padding-right: 5% !important;
+    
+}
+.table .firstrow .tcol,
+.table .firstrow .fcol{
+    border: 1px solid #222;
+    border-top: none ;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    font-family: 'Cutive Mono', monospace;
+}
+.table .firstrow .tcol{
+    border-left: none ;
+}
+.table .end,
+.container .end{
+    float: right;
+    font-family: 'Cutive Mono', monospace;
+}
+.table .firstrow .mrk{
+    padding-left: 0px ;
+}
+.table .firstrow .comp{
+    letter-spacing: 3px;
+}
+.table  p{
+    margin-top: 0% !important;
+    margin-bottom: 0% !important;
+    padding-top: 0% !important;
+    padding-bottom: 0% !important;
+}
+/* .table .le8{
+    padding-left: -15% !important;
+    margin-left: -15% !important;
+}
+.table .ri8{
+    padding-right: -15% !important;
+    margin-right: -15% !important;
+} */
